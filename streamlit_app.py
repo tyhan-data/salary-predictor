@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://salary-predictor-r2cl.onrender.com/predict"
 
 
 # ---------------- PAGE CONFIG ----------------
